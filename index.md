@@ -1,10 +1,9 @@
 ---
 layout: homepage
-title: Thomas J. Vandal, Ph.D.
-role: Research Scientist
-affiliation: NASA Ames Research Center <br>Bay Area Environmental Research Institute <br> Moffett Field, CA 94035
-contact: vandal@baeri.org <br> thomas.vandal@nasa.gov <br> 
-description: Machine Learning, Data Science, and Earth Sciences
+title: Venkata Shashank Konduri
+affiliation: PhD Candidate, Northeastern University, Boston, USA <br>Research Intern, Oak Ridge National Lab, TN
+contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br> 
+description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
 
