@@ -21,8 +21,8 @@ We also developed an Environmental Niche Model to understand the relative import
 
 # Mapping Crops Within the Growing Season Across the United States
 
-![test image size](./assets/images/overall_shannon.png){:width="45%" style="padding-bottom:10px"}
-![test image size](./assets/images/mid-season_progression_90p_new_300dpi_2.png){:width="50%"}
+![test image size](./assets/images/overall_shannon.png){:width="45%"}
+![test image size](./assets/images/mid-season_progression_90p_new_300dpi_2.png){:width="50%" style="padding-bottom:10px"}
 
 **Won the 1st place poster presentation among student entries in the hydrology section of the American Meteorological Society (AMS) annual meeting 2020**  
 **Authors:** Venkata Shashank Konduri, [Jitendra Kumar](https://www.ornl.gov/staff-profile/jitendra-kumar), [William W. Hargrove](https://www.srs.fs.usda.gov/staff/825), [Forrest M. Hoffman](https://www.ornl.gov/staff-profile/forrest-m-hoffman) & [Auroop Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/) <br>
