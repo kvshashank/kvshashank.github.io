@@ -7,7 +7,7 @@ description:
 # Understanding the Patterns and Drivers of Arctic Tundra Plant Communities
 
 ![test image size](assets/images/nnet_1.png){:width="50%"}
-![test image size](assets/images/nnet_2.png){:width="45%" style="padding-bottom:16px"}
+![test image size](assets/images/nnet_2.png){:width="45%" style="padding-bottom:28px"}
 
 **Authors:** Venkata Shashank Konduri, [Jitendra Kumar](https://www.ornl.gov/staff-profile/jitendra-kumar), [Forrest M. Hoffman](https://www.ornl.gov/staff-profile/forrest-m-hoffman), [Verity, G. Salmon](https://www.ornl.gov/staff-profile/verity-g-salmon), [Colleen M. Iversen](https://www.ornl.gov/staff-profile/colleen-m-iversen), [Amy L. Breen](https://news.uaf.edu/expertsguide/amy-breen/), [William W. Hargrove](https://www.srs.fs.usda.gov/staff/825)  <br>
 **Abstract:** The Arctic is undergoing rapid changes in climate, vegetation composition and productivity. To understand the impacts of climate change on the function of Arctic tundra ecosystems, it is crucial to understand vegetation distribution and heterogeneity across large spatial scales. Knowledge of the environmental drivers controlling current vegetation composition and distribution is necessary for modeling potential shifts under a warming climate. 
