@@ -21,7 +21,8 @@ We also developed an Environmental Niche Model to understand the relative import
 
 # Mapping Crops Within the Growing Season Across the United States
 
-![alt text](assets/images/kdd2018-uq-intervals.png "Logo Title Text 1")
+![test image size](./assets/images/cdl_vs_mapcurves.png){:width="40%"}
+![test image size](./assets/images/mid-season_progression_90p_new_300dpi_2.png){:width="55%"}
 
 **Manuscript Accepted, Remote Sensing of Environment** <br>
 **Won the 1st place poster presentation among student entries in the hydrology section of the American Meteorological Society (AMS) annual meeting 2020**  
