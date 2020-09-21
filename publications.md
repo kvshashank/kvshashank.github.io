@@ -15,13 +15,13 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Peer-Reviewed Workshop Papers
 
-**Konduri, V. S.**, Kumar, J., Hoffman, F. M., Gouhier, T. C. & Ganguly, A. R. (2018). Physics-Guided Data Science for Food Security and Climate, _SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery._ 
+**Konduri, V. S.**, Kumar, J., Hoffman, F. M., Gouhier, T. C. & Ganguly, A. R. (2018). Physics-Guided Data Science for Food Security and Climate, _SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery, London, UK._ 
 
-**Konduri, V. S.**, Vandal, T., Ganguly, S., & Ganguly, A. (2018). Data Mining for Weather Impacts on Crop Yield, _SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery._ 
+**Konduri, V. S.**, Vandal, T., Ganguly, S., & Ganguly, A. (2018). Data Mining for Weather Impacts on Crop Yield, _SIGKDD workshop on Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery, London, UK._ 
 
 ## Conference Presentations
 
-**Konduri, V. S.**, Kumar, J., Hargrove, W., Hoffman, F. M., & Ganguly, A. R. (2020). In-Season Crop Mapping for the Continental United States. _Poster presentation delivered at the 100th American Meteorological Society (AMS) Annual Meeting, Boston, MA, January 2020._ **(First place poster presentation award)**
+**Konduri, V. S.**, Kumar, J., Hargrove, W., Hoffman, F. M., & Ganguly, A. R. (2020). In-Season Crop Mapping for the Continental United States. _Poster presentation delivered at the 100th American Meteorological Society (AMS) Annual Meeting, Boston, MA, January 2020._ **(First place poster presentation award)** [link](./slides/AMS_2020_poster.pdf)
 
 **Konduri, V. S.**, Kumar, J., Hoffman, F. M., Salmon, V. G., Iversen, C. M., Breen, A. L. & Hargrove, W. W. (2019). Understanding the Pattern and Drivers of Plant Communities across the Arctic Tundra Landscape. _Oral presentation delivered at the American Geophysical Union (AGU), Annual Fall Meeting, San Francisco, CA, December 2019._ [link](./slides/AGU_Presentation_2019.pdf)
 
