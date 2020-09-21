@@ -34,8 +34,8 @@ We also developed an Environmental Niche Model to understand the relative import
 
 # Data Science for Weather Impacts on Crop Yield <br>
 
-![test image size](assets/images/frontiers_1.png){:width="45%"}
-![test image size](assets/images/frontiers_2.png){:width="50%"}
+![test image size](assets/images/frontiers_1.jpg){:width="45%"}
+![test image size](assets/images/frontiers_2.jpg){:width="50%"}
 
 **Authors:** Venkata Shashank Konduri, [Thomas Vandal](https://www.linkedin.com/in/tjvandal?challengeId=AQFUJ_h1GSGM3wAAAXSyVS23gNcdxEvvNVdVEJpceLbEWeK5FBy7V7oddTNWqixtR3AE29YbPAnbGbcgIBMKqU7J6UIgnOoOBw&submissionId=51e65f28-24e6-3616-a3e3-54d8fa5c8c0d), [Sangram Ganguly](https://www.nasa.gov/centers/ames/earthscience/members/biosphericsciencebranch/Sangram_Ganguly) and [Auroop Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/) <br>
 **Journal: Frontiers in Sustainable Food Systems**
