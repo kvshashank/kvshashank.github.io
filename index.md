@@ -15,4 +15,5 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # Awards
 
-Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting <img align="left" width="450" height="300" src="./assets/images/AMS_award.jpeg">
+![left-aligned-image](./assets/images/AMS_award.jpeg){: .align-left}
+Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting
