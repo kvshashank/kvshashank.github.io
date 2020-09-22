@@ -15,5 +15,5 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # Awards
 
-Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting
+[Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting](https://cee.northeastern.edu/news/shashank-konduri-wins-1st-place-poster-presentation-at-american-meteorological-societys-100th-annual-meeting/)
 ![test image size](./assets/images/AMS_award.jpeg){:width="45%" style="padding-bottom:60px"}
