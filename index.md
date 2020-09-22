@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Venkata Shashank Konduri
-affiliation: PhD Candidate, Interdisciplinary Engineering, Northeastern University, Boston, MA, USA <br> Research Intern, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
+affiliation: PhD Candidate, Interdisciplinary Engineering, Northeastern University, Boston, MA, USA <br> <br> Research Intern, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
 contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br> 
 description: Remote Sensing, Vegetation Mapping and Data Science
 
