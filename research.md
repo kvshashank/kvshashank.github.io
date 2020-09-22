@@ -16,6 +16,7 @@ Our study was focused on three watersheds in the Seward Peninsula of Alaska, whe
 
 We also developed an Environmental Niche Model to understand the relative importance of various environmental drivers in determining the presence/absence of plant communities. Preliminary results show that microtopography (e.g elevation) and soil moisture are the primary drivers of vegetation distribution at the landscape scale. Keystone species, like nitrogen-fixing Alder shrubs, also influence the nutrient availability and vegetation communities in their hydrologically connected downslope neighborhood. High resolution maps of plant communities will provide a better representation of above-ground trait variability in Earth System Models, and will provide data for model parameterization, benchmarking and validation. Insights from niche modeling could improve our understanding of mechanisms and environmental drivers of vegetation distribution and succession. <br>
 **Slides:** [Oral presentation at AGU 2019](./slides/AGU_Presentation_2019.pdf)
+**Code:** [https://github.com/kvshashank/Shashank_Codes/tree/master/NGEE_arctic](https://github.com/kvshashank/Shashank_Codes/tree/master/NGEE_arctic)
 
 <hr>
 
