@@ -13,7 +13,10 @@ My research is at the intersection of machine learning, computer vision, earth s
 
 Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering program at Northeastern University, Boston. He is advised by Prof. [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/) and is part of the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/). He is currently working as a research intern in the [Computational Sciences and Engineering Division](https://www.ornl.gov/division/csed) at the [Oak Ridge National Laboratory](https://www.ornl.gov/), TN. Shashank completed his Bachelors in Agricultural and Food Engineering and Masters in Financial Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://www.iitkgp.ac.in/), India in 2015.
 
-# Awards
+# Selected Awards
 
 [Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting](https://cee.northeastern.edu/news/shashank-konduri-wins-1st-place-poster-presentation-at-american-meteorological-societys-100th-annual-meeting/)
 ![test image size](./assets/images/AMS_award.jpeg){:width="45%"}
+
+[Distinguished Dean's Fellowship](https://phd.northeastern.edu/university-fellows-and-scholars/)
+This prestigious fellowship is awarded to the most exceptional PhD applicants at Northeastern University.
