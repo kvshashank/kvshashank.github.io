@@ -15,4 +15,4 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # Awards
 
-<p>An image: <img align="right" src="./assets/images/AMS_award.jpeg"></p>
+<p>An image: <img align="right" width="100" height="100" src="./assets/images/AMS_award.jpeg"></p>
