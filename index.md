@@ -6,7 +6,7 @@ contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br>
 description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
-My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape-scale going all the way to continental-scales) to study diverse vegetation types (crops/arctic tundra shrubs). Through my collaborations with eminent scientists at various reputed agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have tried to address the following research questions: 
+My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape to continental scales) to study diverse vegetation types (crops/arctic tundra shrubs). Through my collaborations with eminent scientists at various reputed agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have tried to address the following research questions: 
 * Continental-scale continuous mapping of crops in near real time - **“What is growing?”**
 * Impact of growing conditions, including mean and extreme weather, on crop yield - **“How much is growing and what is the expected yield?”** <br>
 
