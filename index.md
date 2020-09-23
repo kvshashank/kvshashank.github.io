@@ -1,13 +1,15 @@
 ---
 layout: homepage
 title: Venkata Shashank Konduri
-affiliation: <strong>PhD Candidate</strong>, Interdisciplinary Engineering, Northeastern University, Boston, MA, USA <br> <br> Research Intern, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
+affiliation: <strong>PhD Candidate</strong>, Interdisciplinary Engineering, Northeastern University, Boston, MA, USA <br> <br> <strong>Research Intern</strong>, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
 contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br> 
 description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
-
-My research is at the intersection of machine learning, computer vision, earth sciences, and high-performance computing. I am interested in efficient unsupervised and supervised learning methods for leveraging ever growing datastores of spatio-temporal earth science observations, forecasts, and projections to understand our environment. Recent projects have included developments of novel deep learning methods for spatio-temporal downscaling, physical model emulation, generating virtual sensors, and cloud tracking. 
+My research is focused on monitoring vegetation using Remote Sensing data along with Machine Learning methods. The scope of my analysis spans various sensors (spaceborne/airborne), spatial scales (watershed/landscape-level all the way to CONUS-level) and vegetation types (crops/arctic shrubs). I am specifically interested in the following 
+* Continental-scale continuous mapping of crops in near real time - **“What is growing?”**
+* Impact of growing conditions, including mean and extreme weather, on crop yield - **“How much is growing and what is the expected yield?”**
+Over the years, I have built a strong background in the diverse areas of remote sensing, data science and machine learning, ecology and climate science, and I have presented my work at a variety of conferences, spanning different focus areas like Computer Science, Geophysics and Landscape Ecology. 
 
 # Bio
 
