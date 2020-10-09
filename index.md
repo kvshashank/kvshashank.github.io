@@ -16,7 +16,7 @@ Over the years, I have built a strong background in the diverse areas of remote 
 
 Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering program at Northeastern University, Boston. He is advised by Prof. [Auroop R. Ganguly](https://coe.northeastern.edu/people/ganguly-auroop/) and is part of the [Sustainability and Data Sciences Lab](https://web.northeastern.edu/sds/). He is currently working as a research intern at the [Climate Change Science Institute](https://www.ornl.gov/ccsi) at [Oak Ridge National Laboratory](https://www.ornl.gov/), TN. Shashank completed his Bachelors in Agricultural and Food Engineering and Masters in Financial Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://www.iitkgp.ac.in/), India in 2015.
 
-# PhD "Big Picture"
+# PhD Big Picture
 
 Title: **Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches**
 ![test image size](./assets/images/big_picture.png){:width="95%"}
