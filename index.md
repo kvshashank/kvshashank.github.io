@@ -6,11 +6,11 @@ contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br>
 description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
-My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape to continental scales) to study diverse vegetation types (crops/arctic tundra shrubs). Through my collaborations with eminent scientists at reputed government agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have tried to address the following research questions: 
+My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape to continental scales) to study diverse vegetation types (crops/arctic tundra shrubs). Through collaborations with eminent scientists at reputed government agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have tried to address the following research questions: 
 * Continental-scale continuous mapping of vegetation in near real time - **“What is growing?”**
 * Impact of growing conditions, including mean and extreme weather, on vegetation biomass - **“How much is growing and what is the expected yield?”** <br>
 
-Over the years, I have built a strong background in the diverse areas of remote sensing, data science and machine learning, ecology and climate science, and I have presented my work at a variety of conferences, spanning different focus areas like Computer Science, Geophysics and Landscape Ecology. 
+Over the years, I have built a strong background in the diverse areas of remote sensing, data science and machine learning, hydrology and climate science, and I have presented my work at a variety of conferences, spanning different focus areas like Computer Science, Geophysics and Landscape Ecology. 
 
 # Bio
 
@@ -18,7 +18,8 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # PhD Big Picture
 
-Title: **Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches**
+Title: **Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches** <br>
+
 ![test image size](./assets/images/big_picture.png){:width="95%"}
 
 # Selected Awards
