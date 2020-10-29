@@ -16,7 +16,7 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # PhD Big Picture
 
-Title: **Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches** <br>
+**Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches** <br>
 
 ![test image size](./assets/images/big_picture.png){:width="95%"}
 
