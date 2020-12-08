@@ -7,7 +7,7 @@ featured-img: assets/images/earth-wide.jpg
 
 ## Journal Papers
 
-**Konduri, V. S.**, Kumar, J., Hargrove, W. W., Hoffman, F. M. & Ganguly, A. R. (2020). Mapping Crops Within the Growing Season Across the United States. _Manuscript Accepted, Remote Sensing of Environment_ [link](https://doi.org/10.1016/j.rse.2020.112048) 
+**Konduri, V. S.**, Kumar, J., Hargrove, W. W., Hoffman, F. M. & Ganguly, A. R. (2020). Mapping Crops Within the Growing Season Across the United States. _Remote Sensing of Environment_ [link](https://doi.org/10.1016/j.rse.2020.112048) 
 
 **Konduri, V. S.**, Vandal, T., Ganguly, S., & Ganguly, A. R. (2020). Data Science for Weather Impacts on Crop Yield. _Frontiers in Sustainable Food Systems, 4, 52._ [link](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full)
 
