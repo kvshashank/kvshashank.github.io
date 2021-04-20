@@ -16,11 +16,13 @@ Shashank is a PhD candidate enrolled in the Interdisciplinary Engineering progra
 
 # PhD Big Picture
 
-**Understanding the Pattern and Drivers of Vegetation Distribution using Remote Sensing Data and Machine Learning Approaches** <br>
+**Understanding the Distribution of Vegetation and its Environmental Drivers using Machine Learning Methods** <br>
 
 ![test image size](./assets/images/big_picture.png){:width="95%"}
 
-# Selected Awards
+# Featured
+
+[Onto NASA's Goddard Space Flight Center](https://coe.northeastern.edu/news/onto-nasas-goddard-space-flight-center/)<br>
 
 [Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting](https://cee.northeastern.edu/news/shashank-konduri-wins-1st-place-poster-presentation-at-american-meteorological-societys-100th-annual-meeting/)
 ![test image size](./assets/images/AMS_award.jpeg){:width="45%"}
