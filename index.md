@@ -12,7 +12,7 @@ Over the years, I have built a strong background in the diverse areas of remote 
 
 # Bio
 
-Shashank is a Post-Doctoral Associate in the Biospheric Sciences Laboratory at NASA's Goddard Space Flight Center. He has a joint affiliation with the Earth System Science Interdisciplinary Center at the University of Maryland. He graduated with a PhD degree in Interdisciplinary Engineering from Northeastern University, Boston in May, 2021. As a graduate student, he also worked as a Geospatial Data Scientist intern at the [Climate Change Science Institute,](https://www.ornl.gov/ccsi) [Oak Ridge National Laboratory](https://www.ornl.gov/), TN for over three years. Shashank completed his Bachelors in Agricultural and Food Engineering and Masters in Financial Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://www.iitkgp.ac.in/), India in 2015.
+Shashank is a Post-Doctoral Associate in the Biospheric Sciences Laboratory at NASA's Goddard Space Flight Center. He has a joint affiliation with the Earth System Science Interdisciplinary Center at the University of Maryland. He graduated with a PhD degree in Interdisciplinary Engineering from Northeastern University, Boston in May, 2021. As a graduate student, he also worked as a Geospatial Data Scientist intern in the [Computational Sciences and Engineering Division](https://www.ornl.gov/division/csed) at [Oak Ridge National Laboratory](https://www.ornl.gov/), TN. Shashank completed his Bachelors in Agricultural and Food Engineering and Masters in Financial Engineering from the [Indian Institute of Technology Kharagpur (IIT Kharagpur)](http://www.iitkgp.ac.in/), India in 2015.
 
 # PhD Big Picture
 
