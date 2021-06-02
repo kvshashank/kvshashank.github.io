@@ -1,12 +1,12 @@
 ---
 layout: homepage
 title: Venkata Shashank Konduri
-affiliation: <strong>PhD Candidate</strong>, Interdisciplinary Engineering, Northeastern University, Boston, MA, USA <br> <br> <strong>Research Intern</strong>, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
+affiliation: <strong>Post-Doctoral Associate</strong>, NASA Goddard Space Flight Center, MD, USA <br> <br> <strong>Research Intern</strong>, Oak Ridge National Laboratory, Oak Ridge, TN, USA 
 contact: konduri.v@northeastern.edu <br> konduriv@ornl.gov <br> 
 description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
-My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape to continental scales) to study diverse vegetation types (crops/arctic tundra shrubs). Through collaborations with eminent scientists at reputed government agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have developed and deployed spatiotemporal data mining methods for improved scientific understanding and enhanced predictive modeling. 
+My research is focused on monitoring vegetation with the help of remote sensing data and machine learning methods. I have experience working with earth observing data from different sensors (multispectral/hyperspectral), mounted on various platforms (spaceborne/airborne) and collected across different spatial scales (landscape to continental scales) to study diverse vegetation types (crops/arctic tundra shrubs/grasslands). Through collaborations with eminent scientists at reputed government agencies like NASA, Oak Ridge National Laboratory (ORNL), USDA Forest Service etc., I have developed and deployed spatiotemporal data mining methods for improved scientific understanding and enhanced predictive modeling. 
 
 Over the years, I have built a strong background in the diverse areas of remote sensing, data science and machine learning, hydrology and climate science. I have published my research in high-impact journals as well as presented my work at a variety of conferences, spanning different focus areas like Computer Science, Geophysics and Landscape Ecology.  
 
