@@ -22,11 +22,9 @@ Shashank is a Post-Doctoral Associate in the Biospheric Sciences Laboratory at N
 
 # Featured
 
-[Onto NASA's Goddard Space Flight Center](https://coe.northeastern.edu/news/onto-nasas-goddard-space-flight-center/)
-![test image size](./assets/images/nasa_photo.jpg){:width="25%"}
+[Onto NASA's Goddard Space Flight Center](https://coe.northeastern.edu/news/onto-nasas-goddard-space-flight-center/) <br> ![test image size](./assets/images/nasa_photo.jpg){:width="25%"}
 
-[Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting](https://cee.northeastern.edu/news/shashank-konduri-wins-1st-place-poster-presentation-at-american-meteorological-societys-100th-annual-meeting/)
-![test image size](./assets/images/AMS_award.jpeg){:width="45%"}
+[Shashank Konduri wins 1st Place Poster Presentation at American Meteorological Society’s 100th Annual Meeting](https://cee.northeastern.edu/news/shashank-konduri-wins-1st-place-poster-presentation-at-american-meteorological-societys-100th-annual-meeting/) <br> ![test image size](./assets/images/AMS_award.jpeg){:width="45%"}
 
 [Distinguished Dean's Fellowship](https://phd.northeastern.edu/university-fellows-and-scholars/) <br>
 This prestigious fellowship is awarded to the most exceptional PhD applicants at Northeastern University.
