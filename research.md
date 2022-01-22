@@ -4,22 +4,15 @@ title: Research
 description: 
 ---
 
-# Understanding the Patterns and Drivers of Arctic Tundra Plant Communities
+# Plant community distribution in the Arctic tundra: present and future
 
 ![test image size](./assets/images/nnet_1.png){:width="50%"}
 ![test image size](./assets/images/nnet_2.png){:width="45%" style="padding-bottom:60px"}
 
 **Authors:** Venkata Shashank Konduri, [Jitendra Kumar](https://www.ornl.gov/staff-profile/jitendra-kumar), [Forrest M. Hoffman](https://www.ornl.gov/staff-profile/forrest-m-hoffman), [Verity, G. Salmon](https://www.ornl.gov/staff-profile/verity-g-salmon), [Colleen M. Iversen](https://www.ornl.gov/staff-profile/colleen-m-iversen), [Amy L. Breen](https://news.uaf.edu/expertsguide/amy-breen/), [William W. Hargrove](https://www.srs.fs.usda.gov/staff/825)  <br>
 <p align="justify">
-**Abstract:** The Arctic is undergoing rapid changes in climate, vegetation composition and productivity. To understand the impacts of climate change on the function of Arctic tundra ecosystems, it is crucial to understand vegetation distribution and heterogeneity across large spatial scales. Knowledge of the environmental drivers controlling current vegetation composition and distribution is necessary for modeling potential shifts under a warming climate. 
-</p>
-
-<p align="justify">
-Our study was focused on three watersheds in the Seward Peninsula of Alaska, where field surveys were conducted as part of the US DOE’s NGEE-Arctic project. Using airborne hyperspectral imagery from NASA AVIRIS-NG, we developed a Deep Neural Network-based classifier to create a high resolution (5m) map of Arctic tundra plant communities with an accuracy exceeding 80%. Analysis of landscape patterns, using area and aggregation based metrics, show Alder-Willow Shrub and Tussock-Lichen Tundra communities occupy a greater proportion of the landscape and are more clumped together compared to Mesic Graminoid Herb Meadow and Sedge-Willow-Dryas Tundra communities.
-</p>
-  
-<p align="justify">
-We also developed an Environmental Niche Model to understand the relative importance of various environmental drivers in determining the presence/absence of plant communities. Preliminary results show that microtopography (e.g elevation) and soil moisture are the primary drivers of vegetation distribution at the landscape scale. Keystone species, like nitrogen-fixing Alder shrubs, also influence the nutrient availability and vegetation communities in their hydrologically connected downslope neighborhood. High resolution maps of plant communities will provide a better representation of above-ground trait variability in Earth System Models, and will provide data for model parameterization, benchmarking and validation. Insights from niche modeling could improve our understanding of mechanisms and environmental drivers of vegetation distribution and succession. <br>
+**Abstract:** Global warming is driving rapid changes in the vegetation composition, cover and productivity in the Arctic tundra. High resolution maps of vegetation distribution are crucial for studying the impacts of climate change on the functioning of Arctic tundra ecosystems and the associated feedbacks. Knowledge of the environmental drivers controlling current plant community composition and distribution is necessary for modeling potential shifts under a warming climate. This study aims at understanding the current composition, configuration and potential changes in the plant community distribution by mid-century time scales across the Seward Peninsula region of Alaska, USA. We developed a Deep Neural Network-based classifier, trained on data collected as part of field vegetation surveys and airborne hyperspectral imagery from NASA AVIRIS-NG, to create high-resolution (5m) land cover maps with an accuracy exceeding 93%. Analysis of landscape patterns, using area and aggregation based metrics, show that plant communities such as Willow-birch shrub and Tussock-lichen tundra occupy a greater proportion of the landscape and are more spatially aggregated compared to Mesic graminoid-herb meadow tundra and Wet sedge bog-meadow. Using a Random Forest-based environmental niche model, we found that climate drivers such as mean summer temperature as well as microtopographic features such as elevation and downstream distance were strong drivers in determining plant community distribution. High resolution maps of vegetation types would improve our knowledge of above-ground trait variability in tundra ecosystems and could serve as datasets for Earth system model parameterization, benchmarking and validation. Insights from niche modeling could help improve our knowledge of mechanisms and environmental drivers of vegetation distribution.  
+ <br>
 **Slides:** [Oral presentation at AGU 2019](./slides/AGU_Presentation_2019.pdf) <br>
 **Code:** [Github](https://github.com/kvshashank/Shashank_Codes/tree/master/NGEE_arctic)
 </p>
