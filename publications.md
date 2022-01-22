@@ -11,7 +11,9 @@ featured-img: assets/images/earth-wide.jpg
 
 **Konduri, V. S.**, Vandal, T., Ganguly, S., & Ganguly, A. R. (2020). Data Science for Weather Impacts on Crop Yield. _Frontiers in Sustainable Food Systems, 4, 52._ [link](https://www.frontiersin.org/articles/10.3389/fsufs.2020.00052/full)
 
-**Konduri, V. S.**, Kumar, J., Hoffman, F. M., Salmon, V. G., Iversen, C. M., Breen, A. L. & Hargrove, W. W. Understanding the Pattern and Drivers of Plant Communities across the Arctic Tundra Landscape. _Manuscript in Preparation_ 
+**Konduri, V. S.**, Morton, D. C., Andela, N. Tracking changes in the vegetation structure following fire in the Cerrado biome using ICESat-2. _Manuscript in Preparation_
+
+**Konduri, V. S.**, Kumar, J., Hoffman, F. M., Salmon, V. G., Iversen, C. M., Breen, A. L., Hargrove, W. W. & Ganguly, A. R. Plant community distribution in the Arctic tundra: present and future. _Manuscript in Preparation_ 
 
 ## Peer-Reviewed Workshop Papers
 
