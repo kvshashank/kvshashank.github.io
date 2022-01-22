@@ -2,7 +2,7 @@
 layout: homepage
 title: Venkata Shashank Konduri
 affiliation: <strong>Post-Doctoral Associate</strong>, <br> Biospheric Sciences Laboratory, <strong>NASA Goddard Space Flight Center, MD, USA</strong> <br><br> Joint Affiliation with Earth System Science Interdisciplinary Center, <strong>University of Maryland, MD, USA</strong> <br>
-contact: kvshashank92@gmail.com <br> venkatashashank.konduri@nasa.gov <br> 
+contact: kvshashank92@gmail.com <br> venkatashashank.konduri@nasa.gov <br> skonduri@umd.edu <br>
 description: Remote Sensing, Vegetation Mapping and Data Science
 
 ---
